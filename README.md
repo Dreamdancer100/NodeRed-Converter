@@ -113,6 +113,6 @@ This program saved me a *ton* of time converting **79 flows** — some with **96
 
 <div align="center">
 
-Made with ❤️ by **Dreamdancer100**
+Made with ❤️ by **Gordon Lehmann**
 
 </div>
