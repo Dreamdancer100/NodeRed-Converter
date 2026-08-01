@@ -2,7 +2,7 @@
 
 <img src="./nodered.png" alt="NodeRed-Converter" width="48" />
 
-# 🔴 NodeRed-Converter
+* NodeRed-Converter *
 
 ### ioBroker → Marc-Berg Node-RED Converter · Windows GUI
 
