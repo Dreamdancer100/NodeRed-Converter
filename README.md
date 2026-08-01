@@ -1,3 +1,5 @@
+🌍 Sprachen: [🇺🇸 English](https://github.com/Dreamdancer100/NodeRed-Converter/blob/main/README.md) | [🇩🇪 Deutsch](https://github.com/Dreamdancer100/NodeRed-Converter/blob/main/README.de.md#)
+
 <div align="center">
 
 <img src="./nodered.png" alt="NodeRed-Converter" width="48" />
