@@ -107,7 +107,7 @@ At the top of the window, fill in the **Bridge configuration** once and click **
 
 ## 💡 Why I built it
 
-This program saved me a *ton* of time converting **79 flows** — some with **96,000 lines** of code. The converter runs the JSON through once and the conversion is done. 🎉
+This program saved me a *ton* of time converting **79 flows** — some with **8,000 lines** of code. The converter runs the JSON through once and the conversion is done. 🎉
 
 *Have fun converting your flows!* 🙌
 
