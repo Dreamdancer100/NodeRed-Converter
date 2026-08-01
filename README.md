@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/icon.png" alt="NodeRed-Converter" width="140" />
+<img src="./nodered.png" alt="NodeRed-Converter" width="48" />
 
 # 🔴 NodeRed-Converter
 
@@ -12,7 +12,7 @@
 ![Type](https://img.shields.io/badge/type-Desktop%20GUI-red)
 ![Made by](https://img.shields.io/badge/made%20by-Dreamdancer100-8b0000)
 
-<img src="./assets/banner.jpg" alt="Node-RED" width="720" />
+<img src="./background.jpg" alt="Node-RED" width="720" />
 
 </div>
 
@@ -57,7 +57,7 @@ C:\Users\<YourName>\Converter\
 > ✅ No manual setup — it just appears.
 
 <div align="center">
-<img src="./assets/folders.png" alt="Created folders and config file" width="560" />
+<img src="./folders.png" alt="Created folders and config file" width="560" />
 <br><em>Created folders & config file</em>
 </div>
 
@@ -78,7 +78,7 @@ At the top of the window, fill in the **Bridge configuration** once and click **
 | 🌐 **Node-RED Host / Port** | The **Node-RED editor** itself (default port `1880`) — **not** the ioBroker admin instance. Used only for the *"Vorhandene abrufen…"* button. |
 
 <div align="center">
-<img src="./assets/program-view.png" alt="Program view" width="620" />
+<img src="./program-view.png" alt="Program view" width="620" />
 <br><em>Program view</em>
 </div>
 
