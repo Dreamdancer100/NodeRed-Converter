@@ -12,7 +12,7 @@
 ![Type](https://img.shields.io/badge/type-Desktop%20GUI-red)
 ![Made by](https://img.shields.io/badge/made%20by-Dreamdancer100-8b0000)
 
-<img src="./background.jpg" alt="Node-RED" width="580" />
+<img src="./background.jpg" alt="Node-RED" width="320" />
 
 </div>
 
