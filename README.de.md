@@ -107,7 +107,7 @@ Oben im Fenster trägst du die **Bridge-Konfiguration** einmal ein und klickst a
 
 ## 💡 Warum ich es gebaut habe
 
-Dieses Programm hat mir *enorm* viel Zeit gespart beim Konvertieren von **79 Flows** — manche mit **96.000 Zeilen** Code. Der Konverter jagt die JSON einmal durch und die Umwandlung ist erledigt. 🎉
+Dieses Programm hat mir *enorm* viel Zeit gespart beim Konvertieren von **79 Flows** — manche mit **9.000 Zeilen** Code. Der Konverter jagt die JSON einmal durch und die Umwandlung ist erledigt. 🎉
 
 *Viel Spaß beim Konvertieren deiner Flows!* 🙌
 
@@ -115,6 +115,6 @@ Dieses Programm hat mir *enorm* viel Zeit gespart beim Konvertieren von **79 Flo
 
 <div align="center">
 
-Mit ❤️ erstellt von **Dreamdancer100**
+Mit ❤️ erstellt von **Gordon Lehmann**
 
 </div>
