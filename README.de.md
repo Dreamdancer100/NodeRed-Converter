@@ -113,6 +113,12 @@ Dieses Programm hat mir *enorm* viel Zeit gespart beim Konvertieren von **79 Flo
 
 ---
 
+## 🔗 Mehr zur App
+
+👉 **[Node-RED Converter auf gordonx.de](https://gordonx.de/nodered-converter/)** — Beschreibung, Bilder und Download.
+
+---
+
 <div align="center">
 
 Mit ❤️ erstellt von **Gordon Lehmann**
