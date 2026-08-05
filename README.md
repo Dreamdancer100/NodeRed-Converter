@@ -117,6 +117,8 @@ This program saved me a *ton* of time converting **79 flows** — some with **9,
 
 👉 **[Node-RED Converter on gordonx.de](https://gordonx.de/nodered-converter/)** — description, screenshots and download.
 
+---
+
 <div align="center">
 
 Made with ❤️ by **Gordon Lehmann**
