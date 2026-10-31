@@ -115,7 +115,7 @@ This program saved me a *ton* of time converting **79 flows** — some with **9,
 
 ## 🔗 More about this app
 
-👉 **[Node-RED Converter on gordonx.de](https://gordonx.de/nodered-converter/)** — description, screenshots and download.
+👉 **[Node-RED Converter on Dreamworld GLX Tools](https://glx-tools.de/product/nodered-converter/)** — description, screenshots and download.
 
 ---
 
