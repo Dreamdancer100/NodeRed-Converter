@@ -39,6 +39,26 @@ Wenn du **Node-RED als Adapter *innerhalb* von ioBroker** betreibst, nutzen dein
 
 ---
 
+## 📸 Überblick & Screenshots
+
+### 1️⃣ Start: Verbindung zu ioBroker und Node-RED
+
+<p align="center"><img src="screenshots/01-start.jpg" alt="Start: Verbindung zu ioBroker und Node-RED" width="850"></p>
+
+### 2️⃣ Flow-Datei und Tabs wählen
+
+<p align="center"><img src="screenshots/02-flow-file.jpg" alt="Flow-Datei und Tabs wählen" width="850"></p>
+
+### 3️⃣ Konvertiert, mit Statistik
+
+<p align="center"><img src="screenshots/03-converted.jpg" alt="Konvertiert, mit Statistik" width="850"></p>
+
+### 4️⃣ Dunkles Design
+
+<p align="center"><img src="screenshots/04-dark.jpg" alt="Dunkles Design" width="850"></p>
+
+---
+
 ## 📦 Installation
 
 1. ⬇️ Lade **`NodeRed-Converter.exe`** (kompletter Installer) aus den [Releases](../../releases) herunter.
