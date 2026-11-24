@@ -20,6 +20,22 @@
 
 ---
 
+## 📖 Über GLX NodeRed Converter
+
+### Vom ioBroker-Adapter zu eigenständigem Node-RED
+
+GLX NodeRed Converter bringt deine Node-RED-Flows vom ioBroker-Adapter in eine eigenständige Node-RED-Installation, etwa in einer VM, einem LXC-Container oder Docker, ohne jeden Node von Hand neu zu bauen.
+
+### Wandelt automatisch um
+
+Er nimmt deine exportierte flows.json und macht aus "ioBroker in", "get", "out" und "sendTo" die WebSocket-Nodes von Marc Berg (iobin, iobget, iobout, iobsendto). Der passende Verbindungsknoten wird automatisch angelegt oder aus deinem Node-RED-Editor geholt, Verweise auf andere Add-ons wie Alexa, Hue oder MySQL bleiben erhalten.
+
+### Klare Ergebnisse
+
+Nach jeder Umwandlung siehst du eine Statistik mit Warnungen. Verbindungsdaten trägst du einmal ein, sie werden gespeichert. Eingebaute Schritt-für-Schritt-Hilfe mit Kopier-Buttons, helles und dunkles Design, Deutsch und Englisch. Kein Python nötig, kostenlos.
+
+---
+
 ## ✨ Was es macht
 
 Wenn du **Node-RED als Adapter *innerhalb* von ioBroker** betreibst, nutzen deine Flows die eingebauten `node-red-contrib-iobroker`-Nodes. Sobald Node-RED aber **eigenständig** läuft (eigene VM / LXC / Docker) und über **WebSocket** mit ioBroker spricht, brauchst du **Marc Bergs externe Nodes** ([`Marc-Berg/node-red-contrib-iobroker`](https://github.com/Marc-Berg/node-red-contrib-iobroker)).
